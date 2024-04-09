@@ -18,6 +18,8 @@
 
 Демонстрація:
 
+[![asciicast](https://asciinema.org/a/J40gIx6g1llVe39FgX9Ux2Iwt.svg)](https://asciinema.org/a/J40gIx6g1llVe39FgX9Ux2Iwt)
+
 
 
 
